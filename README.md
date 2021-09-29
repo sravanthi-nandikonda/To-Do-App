@@ -17,4 +17,6 @@ the search bar option is available to list the matched search key.
 
 ### What I learned
 How to link js with my html page and implementing different function using 
-javascript
+javascript.
+
+published at  https://sravanthi-nandikonda.github.io/To-Do-App/
